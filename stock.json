@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rodillera Mc David blanca",
+    "tipo": "rodilleras",
+    "cantidad": 1,
+    "desc": "La tecnología Hex® de 9 mm de varios tamaños está diseñada específicamente para envolver, flexionar y proteger anatómicamente la rodilla. Longitud extendida para un mejor ajuste, así como protección adicional contra cortes y rasguños. Incluye un par",
+    "precio": 3500,
+    "color": "blanco",
+    "img": "./img/mcDavidBlanca.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Rodillera Mc David negra",
+    "tipo": "rodilleras",
+    "cantidad": 1,
+    "desc": "La tecnología Hex® de 9 mm de varios tamaños está diseñada específicamente para envolver, flexionar y proteger anatómicamente la rodilla. Longitud extendida para un mejor ajuste, así como protección adicional contra cortes y rasguños. Incluye un par",
+    "precio": 3500,
+    "color": "negro",
+    "img": "./img/mcDavidNegra.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Rodillera Ho Soccer blanca",
+    "tipo": "rodilleras",
+    "desc": "Rodillera con sistema de acolchado suave muy confortable y con superficie suave y elasticidad. Molde adaptado anatómicamente para un ajuste perfecto y una amplia zona de protección. Incluye un par.",
+    "color": "blanco",
+    "precio": 2000,
+    "cantidad": 1,
+    "img": "./img/hoSoccerBlanca.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Rodillera Ho Soccer negra",
+    "tipo": "rodilleras",
+    "desc": "Rodillera con sistema de acolchado suave muy confortable y con superficie suave y elasticidad. Molde adaptado anatómicamente para un ajuste perfecto y una amplia zona de protección. Incluye un par.",
+    "color": "negro",
+    "precio": 2000,
+    "cantidad": 1,
+    "img": "./img/hoSoccerNegra.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Rodillera McDavid Hex roja",
+    "tipo": "rodilleras",
+    "desc": "Las medias para pierna cuentan con la tecnología Hex® de diseño anatómico y patrón de 9 mm que envuelve la rodilla para un mayor confort y protección. De gran comodidad, están siendo implementadas por muchos porteros de futsal. Totalmente resistentes y recomendables. Muy flexibles y cómodas para una mejor respuesta en el arco, confiables y duraderas. Pronto habrá más modelos disponibles para vos, aprovechalas!!! Incluye un par.",
+    "color": "rojo",
+    "precio": 4000,
+    "cantidad": 1,
+    "img": "./img/mcDavidHexRoja.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Rodillera McDavid Hex azul",
+    "tipo": "rodilleras",
+    "desc": "Las medias para pierna cuentan con la tecnología Hex® de diseño anatómico y patrón de 9 mm que envuelve la rodilla para un mayor confort y protección. De gran comodidad, están siendo implementadas por muchos porteros de futsal. Totalmente resistentes y recomendables. Muy flexibles y cómodas para una mejor respuesta en el arco, confiables y duraderas. Pronto habrá más modelos disponibles para vos, aprovechalas!!! Incluye un par.",
+    "color": "azul",
+    "precio": 4000,
+    "cantidad": 1,
+    "img": "./img/mcDavidHexAzul.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Codera Hummel larga blanca",
+   "tipo": "coderas",
+    "desc": "El hummel® PROTECTION CODO MANGA LARGA está diseñado para ayudar a un rendimiento óptimo. Esta manga asegura la máxima compresión en el codo para aumentar el flujo sanguíneo mientras apoya su rango completo de movimiento articular. Cuenta con un patrón de espuma diseñado anatómicamente con alta resistencia al impacto desde cualquier ángulo de articulación para una máxima protección. Incluye un par.",
+    "color": "blanco",
+    "precio": 2000,
+    "cantidad": 1,
+    "img": "./img/hummelLargaBlanca.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Codera Hummel larga negra",
+    "tipo": "coderas",
+    "desc": "El hummel® PROTECTION CODO MANGA LARGA está diseñado para ayudar a un rendimiento óptimo. Esta manga asegura la máxima compresión en el codo para aumentar el flujo sanguíneo mientras apoya su rango completo de movimiento articular. Cuenta con un patrón de espuma diseñado anatómicamente con alta resistencia al impacto desde cualquier ángulo de articulación para una máxima protección. Incluye un par.",
+    "color": "negro",
+    "precio": 2000,
+    "cantidad": 1,
+    "img": "./img/hummelLargaNegra.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Codera Ho-Soccer Strange blanca",
+    "tipo": "coderas",
+    "desc": "Codera con manga y espuma de alta densidad que ofrece una excelente absorción de impactos. La zona de protección se ha cubierto con un material muy resistente a la abrasión. Molde adaptado anatómicamente para una perfecta fijación. Incluye un par.",
+    "color": "blanco",
+    "precio": 2000,
+    "cantidad": 1,
+    "img": "./img/hoSoccerCoderaBlanca.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Codera Ho-Soccer Strange negra",
+    "tipo": "coderas",
+    "desc": "Codera con manga y espuma de alta densidad que ofrece una excelente absorción de impactos. La zona de protección se ha cubierto con un material muy resistente a la abrasión. Molde adaptado anatómicamente para una perfecta fijación. Incluye un par.",
+    "color": "negro",
+    "precio": 2000,
+    "cantidad": 1,
+    "img": "./img/hoSoccerCoderaNegra.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Canillera Ho-Soccer negra",
+    "tipo": "canilleras",
+    "desc": "Nuevo modelo de espinillera, peso ligero con una construcción muy resistente, incluyendo 6 mm. Espuma EVA para una absorción de choque perfecta. Buen ajuste a través de banda elástica con cierre de velcro.",
+    "color": "negro",
+    "precio": 2200,
+    "cantidad": 1,
+    "img": "./img/hoSoccerCanilleraNegra.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Canillera Ho-Soccer azul",
+    "tipo": "canilleras",
+    "desc": "Nuevo modelo de espinillera, peso ligero con una construcción muy resistente, incluyendo 6 mm. Espuma EVA para una absorción de choque perfecta. Buen ajuste a través de banda elástica con cierre de velcro.",
+    "color": "azul",
+    "precio": 2200,
+    "cantidad": 1,
+    "img": "./img/hoSoccerCanilleraAzul.jpg"
+  }
+]
